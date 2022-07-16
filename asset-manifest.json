@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/barretobruno411/advice-generator-app-live/settings/pages/static/css/main.3c5b578c.css",
-    "main.js": "/barretobruno411/advice-generator-app-live/settings/pages/static/js/main.05e39dda.js",
-    "index.html": "/barretobruno411/advice-generator-app-live/settings/pages/index.html",
-    "static/media/icon-dice.svg": "/barretobruno411/advice-generator-app-live/settings/pages/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
-    "static/media/pattern-divider-mobile.svg": "/barretobruno411/advice-generator-app-live/settings/pages/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
-    "main.3c5b578c.css.map": "/barretobruno411/advice-generator-app-live/settings/pages/static/css/main.3c5b578c.css.map",
-    "main.05e39dda.js.map": "/barretobruno411/advice-generator-app-live/settings/pages/static/js/main.05e39dda.js.map"
+    "main.css": "./static/css/main.3c5b578c.css",
+    "main.js": "./static/js/main.b1ac3a18.js",
+    "index.html": "./index.html",
+    "static/media/icon-dice.svg": "./static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
+    "static/media/pattern-divider-mobile.svg": "./static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
+    "main.3c5b578c.css.map": "./static/css/main.3c5b578c.css.map",
+    "main.b1ac3a18.js.map": "./static/js/main.b1ac3a18.js.map"
   },
   "entrypoints": [
     "static/css/main.3c5b578c.css",
-    "static/js/main.05e39dda.js"
+    "static/js/main.b1ac3a18.js"
   ]
 }
